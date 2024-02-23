@@ -1,0 +1,1 @@
+to run the project change the chrome executable path if it is different from the default then just change the text file to contain whatever websites you want to open. The default is a list of game development companies in vancouver as well as some indeed and linkedin searches
